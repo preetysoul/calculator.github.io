@@ -18,10 +18,7 @@ body{
     background-size: 200% 200%;
     animation: gradientMove 20s ease infinite;
 }
-    @keyframes gradientMove{
-        from { background-position: 0 0, 50px 50px, 100px 100px; }
-        to { background-position: 500px 500px, 550px 550px, 600px 600px; }
-}
+    
 
 .container{
     border: 1px solid rgb(117, 10, 10);
